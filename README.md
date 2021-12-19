@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LaLa-Ming
+- 👀 I’m interested in Reading, Self-Growth, Python...
+- 🌱 I’m currently learning How to output efficiently...
+- 📫 How to reach me: [gmail](lala.ming.april@gmail.com) ...
+
+<!---
+LaLa-Ming/LaLa-Ming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
